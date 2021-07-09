@@ -182,12 +182,12 @@ Minecraft以外のAPIを使用することも可能ですが、設定は別途�
 
 参考に下記事
 
-> [MineTools](https://api.minetools.eu/ping/)
+> [MineTools WebSite](https://api.minetools.eu/ping/)
 > 
-> [Mignon Style / Markdown記法 チートシート](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)
+> [Mignon Style / Markdown記法 チートシート GitHub](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)
 > 
 > [こうちゃの日常 GitHub](https://github.com/ko-cha/sample)
 > 
-> [こうちゃの日常](https://www.youtube.com/watch?v=-qCKz01qJxA)
+> [こうちゃの日常 YouTube](https://www.youtube.com/watch?v=-qCKz01qJxA)
 >
-> [Robotic Nation](https://youtu.be/7r1Jur8o_Cw)
+> [Robotic Nation YouTube](https://youtu.be/7r1Jur8o_Cw)
